@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### Junior Java Developer
+
+
+👨🏼‍💻 Currently working with Sparta Global.
+🌱 Further developing my Java, Scrum, git and GitHub skills.
+
+
 <!--
 **Fishmunkee/Fishmunkee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
