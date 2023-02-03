@@ -3,8 +3,7 @@
 ### Junior Java Developer
 
 
-👨🏼‍💻 Currently working with Sparta Global.
-🌱 Further developing my Java, Scrum, git and GitHub skills.
+👨🏼‍💻 Currently working with Sparta Global.   🌱 Further developing my Java, Scrum, git and GitHub skills.
 
 
 <!--
